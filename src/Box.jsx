@@ -2,6 +2,8 @@ const Box=(props)=>{
 
     const {children}=props;
     
+    //fancy button
+    
     const propMe=(obj)=>{
      let result = "";
       for(let key in obj){
